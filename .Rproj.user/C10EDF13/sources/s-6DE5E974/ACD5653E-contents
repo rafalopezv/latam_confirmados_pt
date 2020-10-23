@@ -1,0 +1,1 @@
+Sys.setlocale(locale = "pt_PT.UTF-8")
